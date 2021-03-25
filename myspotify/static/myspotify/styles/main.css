@@ -1,0 +1,115 @@
+:root{
+  --primary: #59D760;
+  --secondary: #121212;
+  --hover: #2A2A2A;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  height: 100%;
+  overflow: hidden;
+  background: black;
+}
+
+main{
+  display: grid;
+  grid-template-columns: [first] 1fr [middle-column] 1fr [end-column];
+}
+
+.songs-container{
+  display: flex;
+  flex-flow: column;
+  height: 93vh;
+}
+
+.songs-table{
+  display: flex;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+form {
+  color: white;
+  background-color: var(--secondary);
+  margin: 15px 15px 15px 15px;
+}
+
+form h2{
+  background-color: var(--primary);
+  color: white;
+  padding: 15px;
+  margin: 0px;
+}
+
+fieldset{
+  display: flex;
+  border: 0px;
+  margin: 5px 0px 5px 0px;
+  padding: 0px;
+}
+
+input{
+  padding: 15px;
+  border: 2px solid #E0E0E0;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.06);
+}
+
+button{
+  border: 0px;
+  border-radius: 0px;
+}
+
+label{
+  font-weight: bold;
+}
+
+.search-container{
+  display: flex;
+  flex-flow: column;
+}
+
+.search-field{
+  padding: 10px;
+  margin: 10px;
+}
+
+.search-by-info{
+  display: flex;
+}
+
+.search-by-date{
+  display: flex;
+}
+
+.date-field{
+  padding: 10px;
+  margin: 10px;
+}
+
+#date_button{
+  padding: 10px;
+  margin: 38px 10px 20px 0px;
+}
+
+#reset_button{
+  padding: 10px;
+  margin: 38px 10px 20px 316px;
+}
+.album-wall{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}

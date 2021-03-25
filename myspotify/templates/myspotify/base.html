@@ -1,0 +1,31 @@
+{% load static %}
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{% static 'myspotify/styles/main.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'myspotify/styles/header.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'myspotify/styles/table.css' %}">
+    <title>{% block title %}{% endblock %}</title>
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="{% url 'index' %}">Home</a></li>
+          <li><a href="{% url 'playlist' %}">Playlist</a></li>
+          <li><a href="{% url 'top_tracks' %}">Top Tracks</a></li>
+          <li><a href="{% url 'getting_data' %}">Getting Data</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    {% block content %}{% endblock %}
+
+
+    <script type="text/javascript" src="{% static 'myspotify/scripts/helper.js' %}"></script>
+    <script type="text/javascript" src="{% static 'myspotify/scripts/songs.js' %}"></script>
+  </body>
+</html>

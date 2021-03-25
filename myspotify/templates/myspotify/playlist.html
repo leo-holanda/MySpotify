@@ -1,0 +1,70 @@
+{% extends "./base.html" %}
+
+{% load static %}
+
+{% block title %}MySpotify - Songs Playlist{% endblock %}
+
+{% block content %}
+  <main>
+    <div class="songs-container">
+      <div class="search-container">
+        <form>
+          <h2>Search</h2>
+
+          <div class="search-by-info">
+            <div class="search-field">
+              <label>By title</label><br>
+              <fieldset>
+                <input type='search' id="title_input">
+                <button type="button" id="title_button">Search</button>
+              </fieldset>
+            </div>
+
+            <div class="search-field">
+              <label>By artist</label><br>
+              <fieldset>
+                <input id="artist_input">
+                <button type="button" id="artist_button">Search</button>
+              </fieldset>
+            </div>
+
+            <div class="search-field">
+              <label>By album</label><br>
+              <fieldset>
+                <input id="album_input">
+                <button type="button" id="album_button">Search</button>
+              </fieldset>
+            </div>
+          </div>
+
+          <div class='search-by-date'>
+            <div class="date-field">
+              <label>From</label><br>
+              <input type='date' id="album_input_start_date">
+            </div>
+
+            <div class="date-field">
+              <label>To</label><br>
+              <input type='date' id="album_input_end_date">
+            </div>
+
+            <button type="button" id="date_button">Search</button>
+            <button type="reset" id="reset_button">Reset</button>
+          </div>
+        </form>
+      </div>
+        <div class="songs-table">
+          <table id="songs_table">
+            <tr>
+              <th>Title</th>
+              <th>Album</th>
+              <th>Added at</th>
+            </tr>
+          </table>
+        </div>
+    </div>
+    <div class="album-wall">
+
+    </div>
+  </main>
+{% endblock %}

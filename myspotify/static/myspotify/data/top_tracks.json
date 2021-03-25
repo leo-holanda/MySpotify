@@ -1,0 +1,1369 @@
+{
+  "items" : [ {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+        "id" : "34gLicNdz493863yZTanvC",
+        "name" : "Emma Ruth Rundle",
+        "type" : "artist",
+        "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1vcWwbIr1mePnssmxYvmGH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1vcWwbIr1mePnssmxYvmGH",
+      "id" : "1vcWwbIr1mePnssmxYvmGH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6cfa8e9cfdd2f4a28836d44",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6cfa8e9cfdd2f4a28836d44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6cfa8e9cfdd2f4a28836d44",
+        "width" : 64
+      } ],
+      "name" : "On Dark Horses",
+      "release_date" : "2018-09-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:1vcWwbIr1mePnssmxYvmGH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+      "id" : "34gLicNdz493863yZTanvC",
+      "name" : "Emma Ruth Rundle",
+      "type" : "artist",
+      "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 250380,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1821823"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ChK4BvFmiWSROHT2ZyhM6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ChK4BvFmiWSROHT2ZyhM6",
+    "id" : "0ChK4BvFmiWSROHT2ZyhM6",
+    "is_local" : false,
+    "name" : "Control",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9ced3d0fc87852f80cc90698efa60785dc4642bc?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0ChK4BvFmiWSROHT2ZyhM6"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+        "id" : "34gLicNdz493863yZTanvC",
+        "name" : "Emma Ruth Rundle",
+        "type" : "artist",
+        "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1vcWwbIr1mePnssmxYvmGH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1vcWwbIr1mePnssmxYvmGH",
+      "id" : "1vcWwbIr1mePnssmxYvmGH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6cfa8e9cfdd2f4a28836d44",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6cfa8e9cfdd2f4a28836d44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6cfa8e9cfdd2f4a28836d44",
+        "width" : 64
+      } ],
+      "name" : "On Dark Horses",
+      "release_date" : "2018-09-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:1vcWwbIr1mePnssmxYvmGH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+      "id" : "34gLicNdz493863yZTanvC",
+      "name" : "Emma Ruth Rundle",
+      "type" : "artist",
+      "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 298475,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1821826"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4evKwNE1nXA6soxziteYvH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4evKwNE1nXA6soxziteYvH",
+    "id" : "4evKwNE1nXA6soxziteYvH",
+    "is_local" : false,
+    "name" : "Dead Set Eyes",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/96c3e507b81c9a3387fbfabfb7779abf19a92930?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4evKwNE1nXA6soxziteYvH"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
+        "id" : "6ltzsmQQbmdoHHbLZ4ZN25",
+        "name" : "Lord Huron",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4sD1qg4jwTZR4mvR4Iflk5",
+      "id" : "4sD1qg4jwTZR4mvR4Iflk5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731fa318e90c9d4ddc6b480853",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021fa318e90c9d4ddc6b480853",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511fa318e90c9d4ddc6b480853",
+        "width" : 64
+      } ],
+      "name" : "Strange Trails",
+      "release_date" : "2015-04-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4sD1qg4jwTZR4mvR4Iflk5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
+      "id" : "6ltzsmQQbmdoHHbLZ4ZN25",
+      "name" : "Lord Huron",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 262209,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US53Q1200097"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/54hj06Z7sm7DaHSrGGMAZG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/54hj06Z7sm7DaHSrGGMAZG",
+    "id" : "54hj06Z7sm7DaHSrGGMAZG",
+    "is_local" : false,
+    "name" : "Meet Me In the Woods",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1199a768798e85ba9543fc5d8f075b20cba93353?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:54hj06Z7sm7DaHSrGGMAZG"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+        "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name" : "Mac DeMarco",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6XzoFb3hP14jVQeCMRdVJR",
+      "id" : "6XzoFb3hP14jVQeCMRdVJR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298526846ff341ae71e5c3818",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198526846ff341ae71e5c3818",
+        "width" : 64
+      } ],
+      "name" : "This Old Dog",
+      "release_date" : "2017-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6XzoFb3hP14jVQeCMRdVJR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name" : "Mac DeMarco",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 241066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMMZN1701307"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6l91G5h57AW47LDPMuJSST"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6l91G5h57AW47LDPMuJSST",
+    "id" : "6l91G5h57AW47LDPMuJSST",
+    "is_local" : false,
+    "name" : "One More Love Song",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/687aa760e7e9589777b0102ecd09a7cc09a27766?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6l91G5h57AW47LDPMuJSST"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+        "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name" : "Mac DeMarco",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6XzoFb3hP14jVQeCMRdVJR",
+      "id" : "6XzoFb3hP14jVQeCMRdVJR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298526846ff341ae71e5c3818",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198526846ff341ae71e5c3818",
+        "width" : 64
+      } ],
+      "name" : "This Old Dog",
+      "release_date" : "2017-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6XzoFb3hP14jVQeCMRdVJR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name" : "Mac DeMarco",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 166213,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMMZN1701302"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4xF9zRaPdnrLU7QmVMKOzR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4xF9zRaPdnrLU7QmVMKOzR",
+    "id" : "4xF9zRaPdnrLU7QmVMKOzR",
+    "is_local" : false,
+    "name" : "One Another",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/55161aefd0423c59425459c927855b5b90695235?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4xF9zRaPdnrLU7QmVMKOzR"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
+        "id" : "6ltzsmQQbmdoHHbLZ4ZN25",
+        "name" : "Lord Huron",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4sD1qg4jwTZR4mvR4Iflk5",
+      "id" : "4sD1qg4jwTZR4mvR4Iflk5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731fa318e90c9d4ddc6b480853",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021fa318e90c9d4ddc6b480853",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511fa318e90c9d4ddc6b480853",
+        "width" : 64
+      } ],
+      "name" : "Strange Trails",
+      "release_date" : "2015-04-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4sD1qg4jwTZR4mvR4Iflk5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
+      "id" : "6ltzsmQQbmdoHHbLZ4ZN25",
+      "name" : "Lord Huron",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 341136,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US53Q1200094"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Me17OhG9z9MzsqOT4QA24"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Me17OhG9z9MzsqOT4QA24",
+    "id" : "5Me17OhG9z9MzsqOT4QA24",
+    "is_local" : false,
+    "name" : "La Belle Fleur Sauvage",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/12ca19c33961f0840199eaa97a9e49473276f90c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5Me17OhG9z9MzsqOT4QA24"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+        "id" : "34gLicNdz493863yZTanvC",
+        "name" : "Emma Ruth Rundle",
+        "type" : "artist",
+        "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1vcWwbIr1mePnssmxYvmGH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1vcWwbIr1mePnssmxYvmGH",
+      "id" : "1vcWwbIr1mePnssmxYvmGH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6cfa8e9cfdd2f4a28836d44",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6cfa8e9cfdd2f4a28836d44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6cfa8e9cfdd2f4a28836d44",
+        "width" : 64
+      } ],
+      "name" : "On Dark Horses",
+      "release_date" : "2018-09-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:1vcWwbIr1mePnssmxYvmGH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+      "id" : "34gLicNdz493863yZTanvC",
+      "name" : "Emma Ruth Rundle",
+      "type" : "artist",
+      "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 372456,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1821824"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/53oc5U2cz4MydANM35abYV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/53oc5U2cz4MydANM35abYV",
+    "id" : "53oc5U2cz4MydANM35abYV",
+    "is_local" : false,
+    "name" : "Darkhorse",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2d0740ec150630f51c84d161a81ef50d1fb7a8aa?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:53oc5U2cz4MydANM35abYV"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+        "id" : "34gLicNdz493863yZTanvC",
+        "name" : "Emma Ruth Rundle",
+        "type" : "artist",
+        "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1vcWwbIr1mePnssmxYvmGH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1vcWwbIr1mePnssmxYvmGH",
+      "id" : "1vcWwbIr1mePnssmxYvmGH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6cfa8e9cfdd2f4a28836d44",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6cfa8e9cfdd2f4a28836d44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6cfa8e9cfdd2f4a28836d44",
+        "width" : 64
+      } ],
+      "name" : "On Dark Horses",
+      "release_date" : "2018-09-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:1vcWwbIr1mePnssmxYvmGH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+      "id" : "34gLicNdz493863yZTanvC",
+      "name" : "Emma Ruth Rundle",
+      "type" : "artist",
+      "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 350878,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1821827"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/13oke9sIuH5S706jYcS9FK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/13oke9sIuH5S706jYcS9FK",
+    "id" : "13oke9sIuH5S706jYcS9FK",
+    "is_local" : false,
+    "name" : "Light Song",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/02309976426968a07ada816c03b30a4e8e975cf8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:13oke9sIuH5S706jYcS9FK"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4xiByOtOqXPUQU9wV4sMUb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4xiByOtOqXPUQU9wV4sMUb",
+        "id" : "4xiByOtOqXPUQU9wV4sMUb",
+        "name" : "Abi Ocia",
+        "type" : "artist",
+        "uri" : "spotify:artist:4xiByOtOqXPUQU9wV4sMUb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2qc8FJt1FdhvgoWDFUJrLi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2qc8FJt1FdhvgoWDFUJrLi",
+      "id" : "2qc8FJt1FdhvgoWDFUJrLi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730749bb7c0afbb2486ec7a91e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020749bb7c0afbb2486ec7a91e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510749bb7c0afbb2486ec7a91e",
+        "width" : 64
+      } ],
+      "name" : "Running",
+      "release_date" : "2016-10-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2qc8FJt1FdhvgoWDFUJrLi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xiByOtOqXPUQU9wV4sMUb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xiByOtOqXPUQU9wV4sMUb",
+      "id" : "4xiByOtOqXPUQU9wV4sMUb",
+      "name" : "Abi Ocia",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xiByOtOqXPUQU9wV4sMUb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 229000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL1672058"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/29g6bZxR5bd4ItmXxIucLb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/29g6bZxR5bd4ItmXxIucLb",
+    "id" : "29g6bZxR5bd4ItmXxIucLb",
+    "is_local" : false,
+    "name" : "Running",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/70818bb3036eb607456c4dddd3f1ba16c5d4eba2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:29g6bZxR5bd4ItmXxIucLb"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+        "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name" : "Mac DeMarco",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6XzoFb3hP14jVQeCMRdVJR",
+      "id" : "6XzoFb3hP14jVQeCMRdVJR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298526846ff341ae71e5c3818",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198526846ff341ae71e5c3818",
+        "width" : 64
+      } ],
+      "name" : "This Old Dog",
+      "release_date" : "2017-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6XzoFb3hP14jVQeCMRdVJR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name" : "Mac DeMarco",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 181586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMMZN1701303"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2N4idqj9TT3HnH2OFT9j0v",
+    "id" : "2N4idqj9TT3HnH2OFT9j0v",
+    "is_local" : false,
+    "name" : "Still Beating",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ebf259428f6a23f7bbcd2ed167a0b15160c3c0e5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2N4idqj9TT3HnH2OFT9j0v"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+        "id" : "6Tyzp9KzpiZ04DABQoedps",
+        "name" : "Little Dragon",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2uQnN2xeQVJAMgsHnI57IK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2uQnN2xeQVJAMgsHnI57IK",
+      "id" : "2uQnN2xeQVJAMgsHnI57IK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a80d47d840c9ab2218f4cf6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a80d47d840c9ab2218f4cf6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a80d47d840c9ab2218f4cf6",
+        "width" : 64
+      } ],
+      "name" : "Another Lover - A COLORS SHOW",
+      "release_date" : "2020-03-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2uQnN2xeQVJAMgsHnI57IK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+      "id" : "6Tyzp9KzpiZ04DABQoedps",
+      "name" : "Little Dragon",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 267202,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEXC82000019"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3f7e3q5mNMiFurbPN734LW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3f7e3q5mNMiFurbPN734LW",
+    "id" : "3f7e3q5mNMiFurbPN734LW",
+    "is_local" : false,
+    "name" : "Another Lover - A COLORS SHOW",
+    "popularity" : 43,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3f7e3q5mNMiFurbPN734LW"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7IfculRW2WXyzNQ8djX8WX",
+        "id" : "7IfculRW2WXyzNQ8djX8WX",
+        "name" : "Erykah Badu",
+        "type" : "artist",
+        "uri" : "spotify:artist:7IfculRW2WXyzNQ8djX8WX"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3qr4pTBWEU1SVf01j6RAx3",
+      "id" : "3qr4pTBWEU1SVf01j6RAx3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739968770f3f0e45aa99b2ac29",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029968770f3f0e45aa99b2ac29",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519968770f3f0e45aa99b2ac29",
+        "width" : 64
+      } ],
+      "name" : "Baduizm",
+      "release_date" : "1997-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:3qr4pTBWEU1SVf01j6RAx3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7IfculRW2WXyzNQ8djX8WX",
+      "id" : "7IfculRW2WXyzNQ8djX8WX",
+      "name" : "Erykah Badu",
+      "type" : "artist",
+      "uri" : "spotify:artist:7IfculRW2WXyzNQ8djX8WX"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 226133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19700556"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0tNuJpBgtE65diL6Q8Q7fI",
+    "id" : "0tNuJpBgtE65diL6Q8Q7fI",
+    "is_local" : false,
+    "name" : "On & On",
+    "popularity" : 69,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0tNuJpBgtE65diL6Q8Q7fI"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+        "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name" : "Mac DeMarco",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6XzoFb3hP14jVQeCMRdVJR",
+      "id" : "6XzoFb3hP14jVQeCMRdVJR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298526846ff341ae71e5c3818",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198526846ff341ae71e5c3818",
+        "width" : 64
+      } ],
+      "name" : "This Old Dog",
+      "release_date" : "2017-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6XzoFb3hP14jVQeCMRdVJR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name" : "Mac DeMarco",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 157720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMMZN1701300"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/18nwOqwVCo7JFOci9uqBLD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/18nwOqwVCo7JFOci9uqBLD",
+    "id" : "18nwOqwVCo7JFOci9uqBLD",
+    "is_local" : false,
+    "name" : "Baby You're Out",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ee07d97479b8af47df9e75409a4eed1769f1c047?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:18nwOqwVCo7JFOci9uqBLD"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+        "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name" : "Mac DeMarco",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6XzoFb3hP14jVQeCMRdVJR",
+      "id" : "6XzoFb3hP14jVQeCMRdVJR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298526846ff341ae71e5c3818",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198526846ff341ae71e5c3818",
+        "width" : 64
+      } ],
+      "name" : "This Old Dog",
+      "release_date" : "2017-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6XzoFb3hP14jVQeCMRdVJR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name" : "Mac DeMarco",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 150546,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMMZN1701299"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1KTMZ2DeqT4oqIJ7Co5F6R"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1KTMZ2DeqT4oqIJ7Co5F6R",
+    "id" : "1KTMZ2DeqT4oqIJ7Co5F6R",
+    "is_local" : false,
+    "name" : "This Old Dog",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cd7f6795870ee99080f570ef6d6c2fd24cc01005?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1KTMZ2DeqT4oqIJ7Co5F6R"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+        "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name" : "Mac DeMarco",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0qE5QSP0wAkhMzt8X4TGPC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0qE5QSP0wAkhMzt8X4TGPC",
+      "id" : "0qE5QSP0wAkhMzt8X4TGPC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e00e6cd440d5dedbf61acda0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e00e6cd440d5dedbf61acda0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e00e6cd440d5dedbf61acda0",
+        "width" : 64
+      } ],
+      "name" : "Another One",
+      "release_date" : "2015-08-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:0qE5QSP0wAkhMzt8X4TGPC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name" : "Mac DeMarco",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 156430,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMMZN1300872"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1hYz27mkvDvokNzyTyqUru"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1hYz27mkvDvokNzyTyqUru",
+    "id" : "1hYz27mkvDvokNzyTyqUru",
+    "is_local" : false,
+    "name" : "The Way You'd Love Her",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c1f4aa31474de5f56842b1a6375a0e6e4f0203d8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1hYz27mkvDvokNzyTyqUru"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+        "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name" : "Mac DeMarco",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6XzoFb3hP14jVQeCMRdVJR",
+      "id" : "6XzoFb3hP14jVQeCMRdVJR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298526846ff341ae71e5c3818",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198526846ff341ae71e5c3818",
+        "width" : 64
+      } ],
+      "name" : "This Old Dog",
+      "release_date" : "2017-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6XzoFb3hP14jVQeCMRdVJR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name" : "Mac DeMarco",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 169066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMMZN1701306"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1xpnkMYroPcpCwQmf9Z5sS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1xpnkMYroPcpCwQmf9Z5sS",
+    "id" : "1xpnkMYroPcpCwQmf9Z5sS",
+    "is_local" : false,
+    "name" : "A Wolf Who Wears Sheeps Clothes",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f7ddedd8d6549c378a11489dc32457996740bb2e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:1xpnkMYroPcpCwQmf9Z5sS"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6eU0jV2eEZ8XTM7EmlguK6",
+        "id" : "6eU0jV2eEZ8XTM7EmlguK6",
+        "name" : "Black Pumas",
+        "type" : "artist",
+        "uri" : "spotify:artist:6eU0jV2eEZ8XTM7EmlguK6"
+      } ],
+      "available_markets" : [ "AE", "AR", "BH", "BO", "BR", "CL", "CO", "CR", "CY", "DO", "DZ", "EC", "EG", "GT", "HK", "HN", "ID", "IL", "IN", "JO", "KW", "LB", "MA", "MX", "MY", "NI", "OM", "PA", "PE", "PH", "PS", "PY", "QA", "SA", "SG", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7BEA5emJl0yTMC9XBDJCcm",
+      "id" : "7BEA5emJl0yTMC9XBDJCcm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fb91a17359bf595af113070b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fb91a17359bf595af113070b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fb91a17359bf595af113070b",
+        "width" : 64
+      } ],
+      "name" : "Black Pumas (Deluxe Edition)",
+      "release_date" : "2020-08-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:7BEA5emJl0yTMC9XBDJCcm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6eU0jV2eEZ8XTM7EmlguK6",
+      "id" : "6eU0jV2eEZ8XTM7EmlguK6",
+      "name" : "Black Pumas",
+      "type" : "artist",
+      "uri" : "spotify:artist:6eU0jV2eEZ8XTM7EmlguK6"
+    } ],
+    "available_markets" : [ "AE", "AR", "BH", "BO", "BR", "CL", "CO", "CR", "CY", "DO", "DZ", "EC", "EG", "GT", "HK", "HN", "ID", "IL", "IN", "JO", "KW", "LB", "MA", "MX", "MY", "NI", "OM", "PA", "PE", "PH", "PS", "PY", "QA", "SA", "SG", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 344053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USATO2000300"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lKZJgos5LeBRCfRShviWZ",
+    "id" : "2lKZJgos5LeBRCfRShviWZ",
+    "is_local" : false,
+    "name" : "OCT 33 - Live In Studio",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/20cedad2264dd67758675f36516cf56d9e319601?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2lKZJgos5LeBRCfRShviWZ"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+        "id" : "34gLicNdz493863yZTanvC",
+        "name" : "Emma Ruth Rundle",
+        "type" : "artist",
+        "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1vcWwbIr1mePnssmxYvmGH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1vcWwbIr1mePnssmxYvmGH",
+      "id" : "1vcWwbIr1mePnssmxYvmGH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6cfa8e9cfdd2f4a28836d44",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6cfa8e9cfdd2f4a28836d44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6cfa8e9cfdd2f4a28836d44",
+        "width" : 64
+      } ],
+      "name" : "On Dark Horses",
+      "release_date" : "2018-09-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:1vcWwbIr1mePnssmxYvmGH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34gLicNdz493863yZTanvC",
+      "id" : "34gLicNdz493863yZTanvC",
+      "name" : "Emma Ruth Rundle",
+      "type" : "artist",
+      "uri" : "spotify:artist:34gLicNdz493863yZTanvC"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 334491,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1821825"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3qtzBakqfBQ3MDSEZPZFpK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3qtzBakqfBQ3MDSEZPZFpK",
+    "id" : "3qtzBakqfBQ3MDSEZPZFpK",
+    "is_local" : false,
+    "name" : "Races",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/669938bdd80978afc969399da7bcb68dde1bc644?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3qtzBakqfBQ3MDSEZPZFpK"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+        "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name" : "Mac DeMarco",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6XzoFb3hP14jVQeCMRdVJR",
+      "id" : "6XzoFb3hP14jVQeCMRdVJR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298526846ff341ae71e5c3818",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198526846ff341ae71e5c3818",
+        "width" : 64
+      } ],
+      "name" : "This Old Dog",
+      "release_date" : "2017-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6XzoFb3hP14jVQeCMRdVJR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id" : "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name" : "Mac DeMarco",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 182306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMMZN1701301"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4LB5cNN7f18wIJA2RU4iIO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4LB5cNN7f18wIJA2RU4iIO",
+    "id" : "4LB5cNN7f18wIJA2RU4iIO",
+    "is_local" : false,
+    "name" : "For the First Time",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ce9c1c78df581b33a5d171f657ca2c5a1da6a979?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4LB5cNN7f18wIJA2RU4iIO"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id" : "2cCUtGK9sDU2EoElnk0GNB",
+        "name" : "The National",
+        "type" : "artist",
+        "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OI9hKTm1QMRQunqHCfSSL",
+      "id" : "4OI9hKTm1QMRQunqHCfSSL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a91e8d79776c6f83fa22ce72",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a91e8d79776c6f83fa22ce72",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a91e8d79776c6f83fa22ce72",
+        "width" : 64
+      } ],
+      "name" : "Trouble Will Find Me",
+      "release_date" : "2013-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4OI9hKTm1QMRQunqHCfSSL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+      "id" : "2cCUtGK9sDU2EoElnk0GNB",
+      "name" : "The National",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 283386,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAFL1300061"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/70ZuQywnmOpqcIiEnUA5yV",
+    "id" : "70ZuQywnmOpqcIiEnUA5yV",
+    "is_local" : false,
+    "name" : "This is the Last Time",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0f12029fb2d8971391d2dcf4aee3792da98d54be?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:70ZuQywnmOpqcIiEnUA5yV"
+  } ],
+  "total" : 50,
+  "limit" : 20,
+  "offset" : 0,
+  "previous" : null,
+  "href" : "https://api.spotify.com/v1/me/top/tracks",
+  "next" : "https://api.spotify.com/v1/me/top/tracks?limit=20&offset=20"
+}

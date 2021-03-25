@@ -1,0 +1,48 @@
+table{
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1em;
+  font-family: sans-serif;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  background-color: black;
+  margin: 0px 0px 0px 15px;
+}
+
+.song{
+  background-color: var(--secondary);
+  transition: 0.5s;
+}
+.song:hover *{
+  color: white;
+  background-color: var(--hover);
+}
+
+.song-title{
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.song-artist{
+  margin: 0px;
+  font-size: 0.9rem;
+  color: whitesmoke;
+}
+
+th{
+  font-size: 1.1rem;
+  text-align: left;
+  background-color: var(--primary);
+  color: white;
+  position: sticky;
+  top: 0;
+}
+
+td{
+  color: white;
+  border-bottom: 1px solid whitesmoke;
+}
+
+th, td{
+  padding: 12px 15px;
+}
