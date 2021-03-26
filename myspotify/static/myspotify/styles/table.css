@@ -1,13 +1,3 @@
-table{
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 1em;
-  font-family: sans-serif;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-  background-color: black;
-  margin: 0px 0px 0px 15px;
-}
-
 .song{
   background-color: var(--secondary);
   transition: 0.5s;
@@ -29,6 +19,13 @@ table{
   color: whitesmoke;
 }
 
+table{
+  table-layout: fixed;
+  border-collapse: collapse;
+  font-size: 1em;
+  font-family: sans-serif;
+}
+
 th{
   font-size: 1.1rem;
   text-align: left;
@@ -41,8 +38,10 @@ th{
 td{
   color: white;
   border-bottom: 1px solid whitesmoke;
+  padding: 12px 15px;
+
 }
 
-th, td{
-  padding: 12px 15px;
+th{
+  padding: 0.8rem;
 }

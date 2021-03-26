@@ -1,107 +1,94 @@
-:root{
-  --primary: #59D760;
+:root {
+  --primary: #59d760;
   --secondary: #121212;
-  --hover: #2A2A2A;
+  --hover: #2a2a2a;
 }
 
-body{
+body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
-  height: 100%;
-  overflow: hidden;
   background: black;
+  height: 100vh;
 }
 
-main{
+.songs-container {
   display: grid;
-  grid-template-columns: [first] 1fr [middle-column] 1fr [end-column];
+  grid-template-columns: 1fr 1fr;
+  margin: 1rem;
 }
 
-.songs-container{
-  display: flex;
-  flex-flow: column;
-  height: 93vh;
-}
-
-.songs-table{
-  display: flex;
-  overflow-y: auto;
-  overflow-x: hidden;
+.songs-table {
+  height: 70vh;
+  overflow-y: scroll;
 }
 
 form {
+  display: flex;
   color: white;
   background-color: var(--secondary);
-  margin: 15px 15px 15px 15px;
+  margin: 1rem;
 }
 
-form h2{
+form h2 {
   background-color: var(--primary);
   color: white;
-  padding: 15px;
-  margin: 0px;
 }
 
-fieldset{
+fieldset {
   display: flex;
   border: 0px;
   margin: 5px 0px 5px 0px;
   padding: 0px;
 }
 
-input{
-  padding: 15px;
-  border: 2px solid #E0E0E0;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.06);
+input {
+  padding: 5px;
+  border: 2px solid white;
 }
 
-button{
+button {
   border: 0px;
   border-radius: 0px;
 }
 
-label{
+label {
   font-weight: bold;
 }
 
-.search-container{
+.search-field, .date-field {
+  margin: 1rem 1rem 1rem 0rem;
+}
+
+.search-by-info {
   display: flex;
-  flex-flow: column;
+  margin: 0rem 0rem 0rem 1rem;
 }
 
-.search-field{
-  padding: 10px;
-  margin: 10px;
-}
-
-.search-by-info{
+.search-by-date {
   display: flex;
-}
-
-.search-by-date{
-  display: flex;
-}
-
-.date-field{
-  padding: 10px;
-  margin: 10px;
 }
 
 #date_button{
-  padding: 10px;
-  margin: 38px 10px 20px 0px;
+  margin: 34px 0rem 21px -16px;
 }
 
-#reset_button{
-  padding: 10px;
-  margin: 38px 10px 20px 316px;
+#reset_button {
+  margin: 34px 2rem 21px 2rem;
 }
+
+
 .album-wall{
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 0rem 0rem 0rem 1rem;
+}
+
+img{
+  width: auto;
+  height: 70vh;
 }
 
 .fade {
@@ -110,6 +97,10 @@ label{
 }
 
 @keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
 }
