@@ -104,3 +104,14 @@ img{
     opacity: 1;
   }
 }
+
+.preview{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.preview h2{
+  color: white;
+}
