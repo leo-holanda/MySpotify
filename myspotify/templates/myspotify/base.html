@@ -25,7 +25,9 @@
     {% block content %}{% endblock %}
 
 
+
     <script type="text/javascript" src="{% static 'myspotify/scripts/helper.js' %}"></script>
-    <script type="text/javascript" src="{% static 'myspotify/scripts/songs.js' %}"></script>
+    <script type="text/javascript" src="{% static 'myspotify/scripts/main.js' %}"></script>
+    {% block scripts %}{% endblock %}
   </body>
 </html>

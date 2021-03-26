@@ -21,3 +21,8 @@ def get_songs(request):
   all_songs = Song.objects.all()
   data = serialize("json", all_songs)
   return HttpResponse(data, content_type="application/json")
+
+def get_top_tracks(request):
+  top_tracks = Song.objects.filter(rank__gte=1)
+  data = serialize("json", top_tracks)
+  return HttpResponse(data, content_type="application/json")

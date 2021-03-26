@@ -1,0 +1,59 @@
+{% extends "./base.html" %}
+
+{% load static %}
+
+{% block title %}MySpotify - Songs Playlist{% endblock %}
+
+{% block content %}
+
+<div class="search-container">
+  <form>
+    <div class="search-by-info">
+      <div class="search-field">
+        <label>By title</label>
+        <fieldset>
+          <input type='search' id="title_input">
+          <button type="button" id="title_button">Search</button>
+        </fieldset>
+      </div>
+
+      <div class="search-field">
+        <label>By artist</label>
+        <fieldset>
+          <input id="artist_input">
+          <button type="button" id="artist_button">Search</button>
+        </fieldset>
+      </div>
+
+      <div class="search-field">
+        <label>By album</label>
+        <fieldset>
+          <input id="album_input">
+          <button type="button" id="album_button">Search</button>
+        </fieldset>
+      </div>
+    </div>
+
+    <button type="reset" id="reset_button">Reset</button>
+
+  </form>
+</div>  
+<div class="songs-container">
+  <div class="songs-table">
+    <table id="songs_table">
+      <tr>
+        <th>Title</th>
+        <th>Album</th>
+      </tr>
+    </table>
+  </div>
+  <div class="album-wall">
+
+  </div>
+</div>
+  </main>
+{% endblock %}
+
+{% block scripts %}
+  <script type="text/javascript" src="{% static 'myspotify/scripts/top_tracks.js' %}"></script>
+{% endblock %}
