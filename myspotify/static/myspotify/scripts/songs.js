@@ -1,6 +1,6 @@
 function createRow(song){
-  console.log(getAddedAt(song))
   if(getAddedAt(song) == null || getAddedAt(song) == 'null') return false
+  
   let row = document.createElement("tr")
   row.classList.add("song")
 
