@@ -2,12 +2,18 @@
 
 {% load static %}
 
-{% block title %}MySpotify - Songs Playlist{% endblock %}
+{% block css %}
+  <link rel="stylesheet" type="text/css" href="{% static 'myspotify/styles/index.css' %}">
+{% endblock %}
+{% block title %}MySpotify - Home{% endblock %}
 
 {% block content %}
-
-{% endblock %}
-
-{% block scripts %}
-<script type="text/javascript" src="{% static 'myspotify/scripts/songs.js' %}"></script>
+  <main>
+    <div class="content-banner">
+      <div class="content-banner-text">
+        <h1>Welcome to MySpotify</h1>
+        <p>Discover new songs!</p>
+      </div>
+    </div>
+  </main>
 {% endblock %}

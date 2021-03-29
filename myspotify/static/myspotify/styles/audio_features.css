@@ -23,6 +23,12 @@ main{
   flex-flow: column
 }
 
+.song-details > p{
+  margin: 10px;
+  padding: 5px;
+  font-weight: bold;
+}
+
 .feature-card{
   height: max-content;
   margin: 15px 15px 10px 15px;
