@@ -7,6 +7,7 @@
     <link rel="stylesheet" type="text/css" href="{% static 'myspotify/styles/main.css' %}">
     <link rel="stylesheet" type="text/css" href="{% static 'myspotify/styles/header.css' %}">
     <link rel="stylesheet" type="text/css" href="{% static 'myspotify/styles/table.css' %}">
+    {% block css %}{% endblock %}
     <title>{% block title %}{% endblock %}</title>
   </head>
 
@@ -17,17 +18,14 @@
           <li><a href="{% url 'index' %}">Home</a></li>
           <li><a href="{% url 'playlist' %}">Playlist</a></li>
           <li><a href="{% url 'top_tracks' %}">Top Tracks</a></li>
-          <li><a href="{% url 'getting_data' %}">Getting Data</a></li>
+          <li><a href="{% url 'audio_features' %}">Audio Features</a></li>
         </ul>
       </nav>
     </header>
 
     {% block content %}{% endblock %}
 
-
-
     <script type="text/javascript" src="{% static 'myspotify/scripts/helper.js' %}"></script>
-    <script type="text/javascript" src="{% static 'myspotify/scripts/main.js' %}"></script>
     {% block scripts %}{% endblock %}
   </body>
 </html>

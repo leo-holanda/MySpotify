@@ -1,0 +1,50 @@
+main{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 93vh;
+  color: white;
+}
+
+.audio-features{
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  color: white;
+
+  overflow-y: auto;
+}
+
+.song-details{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column
+}
+
+.feature-card{
+  height: max-content;
+  margin: 15px 15px 10px 15px;
+  width: 100%;
+}
+
+.feature-card > h2{
+  color: black;
+  font-weight: bold;
+  margin: 0px;
+  padding: 10px;
+  background: white;
+}
+
+.feature-card .explanation{
+  background: #D8B9AF;
+  color: black;
+  font-style: italic;
+}
+
+.feature-card p {
+  text-align: center;
+  margin: 0px;
+  padding: 10px;
+}

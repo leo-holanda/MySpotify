@@ -1,0 +1,22 @@
+{% extends "./base.html" %}
+
+  {% load static %}
+  {% block css %}
+    <link rel="stylesheet" type="text/css" href="{% static 'myspotify/styles/audio_features.css' %}">
+  {% endblock %}
+  {% block title %}MySpotify - Songs Playlist{% endblock %}
+
+  {% block content %}
+    <main>
+      <div class="audio-features">
+        
+      </div>
+      <div class="song-details">
+        <h3>Top 1 Song</h3>
+      </div>
+    </main>
+  {% endblock %}
+
+  {% block scripts %}
+  <script type="text/javascript" src="{% static 'myspotify/scripts/audio_features.js' %}"></script>
+  {% endblock %}

@@ -14,8 +14,13 @@ def playlist(request):
 def top_tracks(request):
   return render(request, 'myspotify/top_tracks.html')
 
-def getting_data(request):
-  return render(request, 'myspotify/getting_data.html')
+def audio_features(request):
+  return render(request, 'myspotify/audio_features.html')
+
+def get_song(request, song_id):
+  song = Song.objects.get(id = song_id)
+  data = serialize('json', [song])
+  return HttpResponse(data, content_type="application/json")
 
 def get_songs(request):
   all_songs = Song.objects.all()
