@@ -16,7 +16,6 @@ function search(getData, inputID){
   })
 }
 
-
 document.querySelector("#title_button").addEventListener("click", () => {
   search(getTitle, '#title_input')
 })
@@ -25,12 +24,4 @@ document.querySelector("#artist_button").addEventListener("click", () => {
 })
 document.querySelector("#album_button").addEventListener("click", () => {
   search(getAlbum, '#album_input')
-})
-document.querySelector("#reset_button").addEventListener("click", () => {
-  fetch('/get_top_tracks')
-    .then(response => response.json())
-    .then(songs => {
-      document.querySelectorAll('.song').forEach(song => song.remove());
-      createTable(songs)
-    })
 })

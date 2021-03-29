@@ -14,12 +14,7 @@ function getAlbumCover(song) {
   return song.fields.album_cover
 }
 
-
 function getAddedAt(song) {
   return song.fields.added_at
   // return `${date.getDate()}/${date.getMonth()}/${date.getFullYear()}`
-}
-
-function isValidInput(input){
-  return input != null && input != '' ? true : false
 }

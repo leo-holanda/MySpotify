@@ -1,6 +1,4 @@
 function createRow(song){
-  if(getAddedAt(song) == null || getAddedAt(song) == 'null') return false
-  
   let row = document.createElement("tr")
   row.classList.add("song")
 
@@ -36,6 +34,7 @@ function createRow(song){
 
 function createTable(songs){
   for(song of songs){
+    if (getAddedAt(song) == null || getAddedAt(song) == 'null') return false
     createRow(song)
   }
 }
@@ -46,25 +45,6 @@ fetch('/get_songs')
     createTable(songs)
     createAlbumCoverWall(songs)
   })
-
-function filterByDate(){
-  fetch('/get_songs')
-    .then(response => response.json())
-    .then(songs => {
-      const startDate = new Date(document.querySelector('#album_input_start_date').value)
-      const endDate = new Date(document.querySelector('#album_input_end_date').value)
-      let added_at
-
-      document.querySelectorAll('.song').forEach(song => song.remove());
-
-      for (song of songs) {
-        added_at = new Date(getAddedAt(song))
-        if (added_at >= startDate && added_at <= endDate) {
-          createRow(song)
-        }
-      }
-    })
-}
 
 function createAlbumCoverWall(songs){
   let albumCover 
@@ -102,5 +82,32 @@ function createAlbumCoverWall(songs){
   }, 4000, slides, i);
 }
 
+document.querySelector("#reset_button").addEventListener("click", () => {
+  fetch('/get_songs')
+    .then(response => response.json())
+    .then(songs => {
+      document.querySelectorAll('.song').forEach(song => song.remove());
+      createTable(songs)
+    })
+})
+
+function filterByDate() {
+  fetch('/get_songs')
+    .then(response => response.json())
+    .then(songs => {
+      const startDate = new Date(document.querySelector('#album_input_start_date').value)
+      const endDate = new Date(document.querySelector('#album_input_end_date').value)
+      let added_at
+
+      document.querySelectorAll('.song').forEach(song => song.remove());
+
+      for (song of songs) {
+        added_at = new Date(getAddedAt(song))
+        if (added_at >= startDate && added_at <= endDate) {
+          createRow(song)
+        }
+      }
+    })
+}
 
 document.querySelector("#date_button").addEventListener("click", filterByDate)
