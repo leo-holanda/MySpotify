@@ -10,6 +10,7 @@ function search(getData, inputID){
 
     for(song of songs){
       if(getData(song).toLowerCase().includes(input.toLowerCase())){
+        if (getAddedAt(song) == null || getAddedAt(song) == 'null') return false
         createRow(song)
       }
     }
