@@ -94,16 +94,12 @@ fetch('/146')
   .then(response => response.json())
   .then(song => {
     song = song[0]
-    console.log(song)
     let container = document.querySelector(".song-details")
-    let title = document.createElement("p")
-    title.innerHTML = 'Title: ' + getTitle(song)
-    container.appendChild(title)
 
     let albumCover = document.createElement("img")
-
     albumCover.setAttribute("src", getAlbumCover(song))
     albumCover.setAttribute("alt", "Album cover")
     albumCover.classList.add("album-cover-slide")
+    
     container.appendChild(albumCover)
   })
